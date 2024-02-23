@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @femiopebiyi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript, REACT and typescript
+- 🌱 I’m currently learning html, css, JavaScript, REACT and TypeScript
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me whatsapp/09066245634
 
