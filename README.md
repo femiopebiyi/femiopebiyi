@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @femiopebiyi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, JavaScript, REACT and TypeScript
-- 💞️ I’m looking to collaborate on website projects
+- 👀 I’m interested in the Rust programming language
+- 🌱 I’m currently learning Anchor framework
+- 💞️ I’m looking to collaborate on solana blockchain projects
 - 📫 How to reach me whatsapp/09066245634
 
 <!---
